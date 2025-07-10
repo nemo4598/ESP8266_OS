@@ -61,7 +61,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🤖 Credits
 
-Developed by **Kayen**  
+Developed by **Matěj**  
 Version: `2.0 public mini`  
 Inspired by desktop UIs and CLI-based micro operating systems.
 
